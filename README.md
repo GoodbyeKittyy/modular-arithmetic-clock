@@ -5,6 +5,10 @@
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4fc08d.svg)](https://vuejs.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776ab.svg)](https://www.python.org/)
 
+</br>
+<img width="660" height="544" alt="image" src="https://github.com/user-attachments/assets/38814dd3-89cb-4ec6-8a62-86194c3b5cb5" />
+
+</br>
 A comprehensive cryptographic education platform that visualizes modular arithmetic through interactive clock systems. This project implements classical ciphers, RSA encryption, and number theory algorithms across multiple programming languages and frameworks.
 
 ## 🎯 Features
@@ -264,4 +268,4 @@ Perfect for students, educators, and developers interested in cryptography, numb
 
 ---
 
-**Made with ❤️ for cryptography education and blockchain development**
+**Star ⭐ this repository if you find it useful!**
